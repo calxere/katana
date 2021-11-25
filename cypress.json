@@ -1,0 +1,14 @@
+{
+  "projectId": "h88iyt",
+  "baseUrl": "https://katanamrp.com/",
+  "defaultCommandTimeout": 5000,
+  "chromeWebSecurity": false,
+  "video": false,
+  "fixturesFolder": "fixtures",
+  "integrationFolder": "specs",
+  "pluginsFile": "plugins",
+  "screenshotsFolder": "./cypress/screenshots",
+  "supportFile": "./support/index.js",
+  "viewportWidth": 1600,
+  "viewportHeight": 1200
+}

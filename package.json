@@ -1,0 +1,21 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "chrome": "npx cypress run --browser chrome --record --key 1d12006d-3a78-43b8-b327-870e5d5ff6af"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Anton Kozlov",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.1.0",
+    "mocha": "^9.1.3",
+    "mochawesome": "^7.0.1",
+    "mochawesome-report-generator": "^6.0.1",
+    "faker": "^5.5.3"
+  }
+}
